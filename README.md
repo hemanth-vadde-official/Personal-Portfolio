@@ -1,4 +1,4 @@
-# Hemanth Vadde's Resume Website
+# Hemanth Vadde's Portfolio 
 
 Welcome to my resume website repository! This GitHub repository contains the source code for my personal resume website, where you can learn more about my professional background, skills, and experiences.
 
