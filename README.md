@@ -20,7 +20,7 @@ My academic credentials laid a strong foundation in cloud technologies, enabling
 
 Explore my detailed resume to get insights into my educational background, work experiences, and key accomplishments. The resume section provides a comprehensive overview of my professional profile.
 
-- **Resume PDF:** https://drive.google.com/file/d/1F7LTpqAW0uugbBNrcDKc6rXSpPssAiLG/view?usp=drive_link
+- **Resume PDF:** https://drive.google.com/file/d/17JCNpWgAPUg8yQIAK5PY_hmWlWUkLrSy/view
 
 ## Projects
 
