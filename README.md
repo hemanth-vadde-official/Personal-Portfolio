@@ -53,7 +53,7 @@ Gain insights into my skill set, which includes proficiency in various technolog
 Connect with me for professional inquiries, collaboration opportunities, or any questions you may have.
 
 - **Email:** mrhemanth45@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/aryan-durge-14893824b/](https://www.linkedin.com/in/hemanth-vadde/
-- **Personal Website:** https://aryandurgeresume.netlify.app/](https://mrhemanth-portfolio.netlify.app/
+- **LinkedIn:** https://www.linkedin.com/in/hemanth-vadde/
+- **Personal Website:** https://mrhemanth-portfolio.netlify.app/
 
 Thank you for visiting my resume website! Feel free to explore and learn more about my professional journey.
